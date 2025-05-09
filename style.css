@@ -1,0 +1,38 @@
+.jumbotron {
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background-color: #10161f;
+}
+#about {
+  padding-top: 8rem;
+  padding-bottom : 8rem;  
+  background-image: url('img/background\ 1.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+}
+
+#portfolio {
+  padding-top: 3rem;
+  background: linear-gradient(45deg, #749abb, #ffffff);
+}
+
+#contact {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  background: linear-gradient(45deg, #375a7a, #ffffff);
+  
+}
+
+#footer {
+  padding-top: 1rem;
+  background-color: #10161f;
+}
+
+
+#hero{
+  background-image: url('img/porto\ 4.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+}
